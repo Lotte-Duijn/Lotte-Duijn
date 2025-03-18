@@ -2,5 +2,5 @@
 - 👀 I’m interested in Reading, Drawing and Video Games
 - 🌱 I’m currently learning Github, Git and general programming
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can speak 6 languages
+- ⚡ Fun fact: I can speak 6 languages (not all as fluently)
 - ✨ Work: Viedoc Technologies AB
